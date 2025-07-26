@@ -51,7 +51,7 @@ Here’s how to write endpoints in the README — use tables or bullet points wi
 
 Below are screenshots of key endpoint tests in Postman:
 
-![Create Category](docs/postman/create-Category.png)  
+![Create Category](docs/postman/Create-Category.png)  
 *Create a new Category*
 
 ![Get All Products](docs/postman/Get-Products.png)  
